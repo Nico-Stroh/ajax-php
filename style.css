@@ -1,0 +1,16 @@
+.card-body{
+    background-color:#cacaca98;
+}
+
+thead{
+background-color: rgba(30, 30, 32, 0.7);
+color: azure;
+}
+
+tr:nth-child(even){
+    background-color: #cacaca98; 
+}
+
+h1{
+    text-align: center;
+}
